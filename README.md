@@ -72,7 +72,7 @@ If you would like template code for this exercise, you can get it [here][w06-sim
 
 **Exercise:** Write a function that takes two lists as its input and return the longest of the two.
 
-**Exercise:** The distance between two points, `(x1,y1)` and `(x2,y2)` is $\sqrt{(x_1-x_2)^2 + (y_1-y_2)^2)}$. It follows from [Pythagora’s Theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem) (as you should be able to see using a small drawing). Write a function that computes the distance between two functions. You can use the `sqrt()` function to get the square root, but you need to import it from the `math` module first:
+**Exercise:** The distance between two points, `(x1,y1)` and `(x2,y2)` is $\sqrt{(x_1-x_2)^2 + (y_1-y_2)^2)}$. It follows from the [Pythagorean Theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem) (as you should be able to see using a small drawing). Write a function that computes the distance between two functions. You can use the `sqrt()` function to get the square root, but you need to import it from the `math` module first:
 
 ```python
 from math import sqrt
@@ -250,11 +250,7 @@ To simplify things, we will assume that `len(x) >= 2` (since otherwise, we haven
 You can start the exercise from this [template repository][w06-reduce-ex].
 
 
-
-
 [w06-simple-funcs-ex]: https://github.com/CTiB-exercizes/simple-functions
-[w06-kmers-ex]: https://github.com/birc-ctib/kmer
-[w06-codon-ex]: https://github.com/birc-ctib/codon-translation
-[w06-reduce-ex]: https://github.com/birc-ctib/reduce
-
-
+[w06-kmers-ex]: https://github.com/CTiB-exercizes/kmer
+[w06-codon-ex]: https://github.com/CTiB-exercizes/codon-translation
+[w06-reduce-ex]: https://github.com/CTiB-exercizes/reduce
