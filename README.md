@@ -250,45 +250,11 @@ To simplify things, we will assume that `len(x) >= 2` (since otherwise, we haven
 You can start the exercise from this [template repository][w06-reduce-ex].
 
 
-[command-line-ex]: https://github.com/birc-ctib/command-lines-and-pipes
-[intro-to-github-ex]: https://github.com/birc-ctib/intro-to-git-and-github
 
-[w02-prog-ex]: https://github.com/birc-ctib/basic-python
-[w02-commandline-ex]: https://github.com/birc-ctib/command-line-python
 
-[w03-merge-ex]: https://github.com/birc-ctib/merging
-[w03-guessing-ex]: https://github.com/birc-ctib/guessing
-[w03-base-ex]: https://github.com/birc-ctib/changing-base
-[w03-sieve-ex]: https://github.com/birc-ctib/sieve
-[w03-substring-ex]: https://github.com/birc-ctib/lis
-[w03-powerset-ex]: https://github.com/birc-ctib/powerset
-[w03-subseq-ex]: https://github.com/birc-ctib/liseq
-
-[w05-bucket-ex]: https://github.com/birc-ctib/bucket-sort
-
-[w06-simple-funcs-ex]: https://github.com/birc-ctib/simple-funcs
+[w06-simple-funcs-ex]: https://github.com/CTiB-exercizes/simple-functions
 [w06-kmers-ex]: https://github.com/birc-ctib/kmer
 [w06-codon-ex]: https://github.com/birc-ctib/codon-translation
 [w06-reduce-ex]: https://github.com/birc-ctib/reduce
 
-[w07-lists-ex]: https://github.com/birc-ctib/lists-and-recursion
 
-[w09-mm-ex]: https://github.com/birc-ctib/markov
-
-[w11-sllists-ex]: https://github.com/birc-ctib/singly-linked-lists
-[w11-dllists-ex]: https://github.com/birc-ctib/doubly-linked-lists
-
-[w12-list-set-ex]: https://github.com/birc-ctib/list-set
-[w12-search-tree-set-ex]: https://github.com/birc-ctib/st-balance-1
-[w12-hash-table-ex]: https://github.com/birc-ctib/hash-set
-
-[w13-linked-list-stack-ex]: https://github.com/birc-ctib/linked-list-stack
-[w13-newick-ex]: https://github.com/birc-ctib/newick
-[w13-dllist-queue-ex]: https://github.com/birc-ctib/linked-list-queue
-
-[w14-huffmann-ex]: https://github.com/birc-ctib/huffman
-[w14-prim-ex]: https://github.com/birc-ctib/prim
-[w14-search-tree-pqueue-ex]: https://github.com/birc-ctib/st-pqueue
-[w14-leftist-heap-ex]: https://github.com/birc-ctib/leftist
-[w14-binary-heap-ex]: https://github.com/birc-ctib/binary-heap
-[w14-heap-sort-ex]: https://github.com/birc-ctib/heap-sort
